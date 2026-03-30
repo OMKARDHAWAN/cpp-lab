@@ -1,0 +1,39 @@
+Q.1. Accept 10 array elements from user. Sort the array in ascending order. Display sorted
+array.
+Create class SortArray. And use functions for
+1. taking input from user
+2. sorting array
+3. display that sorted array
+
+Q.2. WAP to find Factorial of a Number. Create class FindFactorial and functions to
+1. Accept a number from user.
+2. Calculate factorial using loop.
+3. Display result.
+
+Q.3. WAP for Decimal to Binary Conversion. Create a class DecimalToBinary and functions
+to
+1. Convert decimal number to binary.
+2. Display binary equivalent
+Q.4. WAP to print Hollow Square Pattern. Take integer value n from user. If n = 4, then it
+should print the pattern as follows :
+* * * *
+*     *
+*     *
+* * * *
+Q.5. Create a menu driven program for Student Record System. Use map to store rollNo and
+name.
+Menu options:
+
+1. Add Record
+2. Display Records
+3. Save to File
+4. Exit
+
+Q.6. Create a menu driven program for Shopping Cart System. Create class Item with data
+members itemId, itemName, price. Use vector to store items.
+Menu options:
+1. Add Item
+2. Display Items
+3. Calculate Total Bill
+4. Exit
+Throw exception if price is invalid or negative value

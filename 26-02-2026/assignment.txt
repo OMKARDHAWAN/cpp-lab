@@ -1,0 +1,7 @@
+
+
+//palindrome or not
+//factorial of 3 to 10
+//1234 => 4321
+//1234 =>1+2+3+4
+ 
