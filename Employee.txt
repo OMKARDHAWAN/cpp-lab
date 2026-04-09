@@ -1,0 +1,12 @@
+3
+peter
+it
+5000
+1
+john
+it
+6000
+2
+jane
+it
+4000
